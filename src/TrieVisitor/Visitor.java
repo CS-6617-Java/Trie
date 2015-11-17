@@ -5,10 +5,7 @@
 
 package TrieVisitor;
 
-/**
- *
- * @author Harshal
- */
+
 public interface Visitor {
     public void visit(TrieNode node1);
     public void visit(WordNode node1);

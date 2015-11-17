@@ -5,10 +5,7 @@
 
 package TrieVisitor;
 
-/**
- *
- * @author Harshal
- */
+
 public interface Visitable {
     public void accept(Visitor visitor);
 }

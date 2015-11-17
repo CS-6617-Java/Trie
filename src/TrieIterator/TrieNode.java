@@ -1,8 +1,5 @@
 /** ***************************************************************************************
-	@author Harshal Vaidya
-	@assignment# 2: Trie Iterator
-	@class CS 635, Spring 2013
-	@date Tuesday, 19th of February
+	
 
 
  1) Implement an iterator on your Trie class to iterate through all the words in the trie.

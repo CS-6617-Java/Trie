@@ -2,9 +2,7 @@ TrieDictionary
 ==============
 
 A Java mini-project which uses TrieNodes to store and search words. You can also fin words with a particular substring
-	@author Harshal Vaidya
-  	@Project: Trie using a linked structure
-	@date Thursday, 24th of January
+	
 
         A trie, is a multi-way tree structure useful for storing strings over an alphabet.
         It is an ordered tree data structure. The words in the dictionary are stored in a data type trie.

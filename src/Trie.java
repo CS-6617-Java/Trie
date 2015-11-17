@@ -1,8 +1,5 @@
 /** ***********************************Trie.java*****************************************
-	@author Harshal Vaidya
-	@assignment# 1: Trie using a linked structure
-	@class CS 635, Spring 2013
-	@date Thursday, 24th of January
+	
 
         A trie, is a multi-way tree structure useful for storing strings over an alphabet.
         It is an ordered tree data structure. The words in the dictionary are stored in a data type trie.
